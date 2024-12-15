@@ -20,7 +20,7 @@ O repositório contém:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/marcelsferreira/python_regex.git
    ```
 
 2. Instale os pré-requisitos, se necessário (ex.: `re` é uma biblioteca padrão do Python, mas bibliotecas adicionais podem ser usadas para testes, como `pytest`).
